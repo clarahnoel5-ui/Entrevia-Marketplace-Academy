@@ -1,0 +1,6 @@
+{
+  "name": "Entrevia Marketplace Academy",
+  "description": "Start, learn, and grow your online business with confidence. Learn how to sell on Amazon, TikTok Shop, Etsy, Shopify, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
